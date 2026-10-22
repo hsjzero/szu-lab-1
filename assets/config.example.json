@@ -1,0 +1,43 @@
+{
+  "identity": {
+    "name": "张三",
+    "sid": "2026000001",
+    "name_pinyin": "ZHANG SAN",
+    "gender": "男",
+    "birth": "2008 年 01 月",
+    "hometown": "示例省示例市",
+    "politics": "群众",
+    "school": "示例大学",
+    "college": "文学院",
+    "major": "中国语言文学类",
+    "grade": "2026 级",
+    "teacher": "李老师",
+    "teacher_title": "讲师",
+    "course": "大学计算机",
+    "email": "zhangsan@example.com",
+    "phone": "138-0000-0000"
+  },
+  "assignment": {
+    "exp_name": "实验1",
+    "title": "文字信息处理 + AI 辅助工具使用",
+    "date_range": "2026 年 10 月 15 日 — 10 月 24 日",
+    "due_date": "2026 年 10 月 25 日",
+    "report_date": "2026 年 10 月 25 日",
+    "ai_tool": "腾讯元宝（yuanbao.tencent.com）",
+    "ai_source": "AI文字处理原稿.docx"
+  },
+  "thesis": {
+    "title": "示例大学文学院课程论文题目（请修改）",
+    "keywords": "关键词一；关键词二；关键词三",
+    "author_line": ""
+  },
+  "newsletter": {
+    "title": "示例小报主题",
+    "pinyin": "SHILI XIAOBAO ZHUTI",
+    "issue": "第 1 期",
+    "org": ""
+  },
+  "resume": {
+    "intent": "文案策划 / 新媒体编辑"
+  }
+}
